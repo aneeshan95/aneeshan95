@@ -3,7 +3,7 @@
 
 🌱 The world calls me : Aneeshan Sain
 
-🔭 Profession : Research Scientist at [iSize](https://www.isize.co/).
+🔭 Profession : AI Research Scientist at [iSize](https://www.isize.co/).
 
 📖 Education : Final year PhD Student at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of [**University of Surrey**](https://www.surrey.ac.uk/), UK, under [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
