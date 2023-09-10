@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-
-# 👋 Hi there!
 
 🌱 The world calls me : Aneeshan Sain
 
