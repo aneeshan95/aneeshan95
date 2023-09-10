@@ -56,6 +56,7 @@ ___
 * IEEE Transactions on Image Processing
 * IEEE Transactions on Neural Networks and Learning Systems
 * Journal of Artificial Intelligence
+* IEEE MultiMedia
 
 </details>
 
