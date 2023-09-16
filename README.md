@@ -41,7 +41,7 @@ ___
 
 <div align="center">
 
-| <a href="https://github.com/aneeshan95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshan95&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href="https://github.com/aneeshan95"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" alt="Aneeshan's top langs" /></a> |
+| <a href="https://github.com/aneeshan95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshan95&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href="https://github.com/aneeshan95"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshan95&layout=compact&theme=vue-dark" alt="Aneeshan's top langs" /></a> |
 | ------------- | ------------- |
 
 </div>
