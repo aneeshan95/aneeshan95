@@ -3,9 +3,9 @@
 
 🌱 The world calls me : Aneeshan Sain
 
-🔭 Profession : AI Research Scientist at [iSize Ltd](https://www.isize.co/).
+🔭 Profession : AI Research Scientist at [Sony Interactive Entertainment (SIE), PlayStation](https://sonyinteractive.com/en/), UK.
 
-📖 Education : Final year PhD Student at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of [**University of Surrey**](https://www.surrey.ac.uk/), UK, under [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
+📖 Education : PhD Graduate from [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of [**University of Surrey**](https://www.surrey.ac.uk/), UK, under [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
 😄 Pronouns: He/Him
 
@@ -20,7 +20,8 @@
 <!--
 ✅ Currently working as a full-time research scientist at iSize Technologies, I'm pursuing my final-year as a **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
- 👨‍💻 Before starting my PhD, I worked as an Image Processing and Deep Learning Engineer at [**The MathWorks**](https://www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & Hyperspectral Imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](https://www.johnsoncontrols.com). -->
+ 👨‍💻 Before starting my PhD, I worked as an Image Processing and Deep Learning Engineer at [**The MathWorks**](https://www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & Hyperspectral Imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](https://www.johnsoncontrols.com).
+ -->
 
 ___
 
