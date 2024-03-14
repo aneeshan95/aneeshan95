@@ -11,7 +11,7 @@
 
 👨‍🎓 In 2017, I completed my **Bachelor of Technology (B. Tech)** from the West Bengal University of Technology, Kolkata, India, majoring in Electrical Engineering (EE).
 
-🏆 **Top-Venue Publications:** *14* **CVPR**, *2* **ECCV**, *4* **ICCV**, *1* **BMVC** (***Oral***).
+🏆 **Top-Venue Publications:** *22* **CVPR**, *2* **ECCV**, *4* **ICCV**, *1* **BMVC** (***Oral***).
 
 📢 **Recent Updates:** One paper got accepted in **ICCV 2023**!
 
