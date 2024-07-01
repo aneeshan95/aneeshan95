@@ -13,7 +13,7 @@
 
 🏆 **Top-Venue Publications:** *22* **CVPR**, *2* **ECCV**, *4* **ICCV**, *1* **BMVC** (***Oral***).
 
-📢 **Recent Updates:** One paper got accepted in **ICCV 2023**!
+📢 **Recent Updates:** Two papers got accepted in **ECCV 2024**!
 
 ⚡ Fun fact: Love doodling during boring seminars 😜
 
